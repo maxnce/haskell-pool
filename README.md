@@ -11,14 +11,22 @@ I loved it so I'm definetely going to work on some more Haskell.
 
 ## Grades
 
+### Module grade
+
+|Module Name | Grade |
+|---|---|
+| B3 - Paradigms Seminar | A |
+
+### Marks details
+
 | Day    | Mark  |
 |--------|-------|
-| Day1   | 20/20 |
-| Day2   | 20/20 |
-| Day3   | 22/22 |
-| Rush   | 34/40 |
+| [Day1](https://github.com/maxnce/haskell-pool/tree/main/day1)   | 20/20 |
+| [Day2](https://github.com/maxnce/haskell-pool/tree/main/day2)    | 20/20 |
+| [Day3](https://github.com/maxnce/haskell-pool/tree/main/day3)    | 22/22 |
+| [Rush](https://github.com/maxnce/haskell-pool/tree/main/rush)    | 34/40 |
 
-### Rush details
+#### Rush details
 
 - Grade from automatic tests : 20/20
 - Coding style : 4/5
@@ -35,4 +43,8 @@ I loved it so I'm definetely going to work on some more Haskell.
     - Interactive pushswap editor
     - Tried to do CI but GH actions not activated on organization repo apparently.
 
+## More
 
+The second part of my Paradigms seminar is available [here](https://github.com/maxnce/cpp-pool)
+
+Have a great day!
