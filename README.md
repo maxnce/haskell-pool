@@ -1,5 +1,9 @@
 # Haskell pool
 
+## Caution
+
+/!\ If you are an Epitech student you should be aware by now that cheating is forbidden. If you are going to copy paste this code, do it at your own risks.
+
 ## Introduction
 The Haskell Part of the paradigms seminar of Epitech. This quick introduction led me to discover a totally new paradigm which is functional programming.
 
